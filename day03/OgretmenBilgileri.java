@@ -14,9 +14,7 @@ public class OgretmenBilgileri {
 	public OgretmenBilgileri(){
 		
 	}
-	
-	
-	
+
 	/*Class’i olusturun bu Class’da bir Ogretmen icin gerekli
           bilgileri girebilecegim INSTANCE Variable’lar olusturun
           ve main method icinde bu variable’lara deger atayin ve yazdirin
