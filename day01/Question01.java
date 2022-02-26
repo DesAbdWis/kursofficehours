@@ -23,6 +23,7 @@ public class Question01 {
 	
 	
 	scan.close();
+
 	}
 
 }
